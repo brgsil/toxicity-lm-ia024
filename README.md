@@ -20,7 +20,7 @@ Analyze different datasets and measurement methods for toxicity and bias detecti
 
  |Dataset| Input/Output|Metrics|Bias Group|
 |---|---|---|---|
-|RealToxicityPrompts|Sentence-Continuation|Perplexity API| — |
+|RealToxicityPrompts|Sentence-Continuation|Perspective API| — |
 |Winogender|Sentence-Next word|Accuracy|Gender|
 |Winobias|Sentence-Next word|Accuracy|Gender|
 |BOLD|Sentence-Continuation|Sentiment, toxicity, demographic and gender polarity|Profession - Gender - Race - Religion - Politics|
